@@ -1,0 +1,62 @@
+html {
+
+    background-color: black
+}
+
+
+
+.title {
+    text-align: center;
+    border-top: 2px solid green;
+    border-bottom: 2px solid green;
+    color: whitesmoke;
+}
+
+.title input {
+    border-radius: 15%;
+}
+
+.main-container {
+    text-align: center;
+    background-color: gray;
+    max-width: 400px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 3%;
+
+}
+
+.title2 {
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+.main {
+    color: whitesmoke;
+
+}
+
+.boton {
+    margin-top: 2%;
+    background-color: skyblue;
+    color: black
+}
+
+#box {
+   text-align: center;
+    margin-top: 2%;
+    color: whitesmoke;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+
+.chart {
+
+    margin-top: 2%;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
